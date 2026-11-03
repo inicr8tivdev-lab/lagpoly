@@ -1,0 +1,8 @@
+{
+  "name": "Remix Eko Monopoly - Lagos Real Estate Board Game",
+  "description": "Multiplayer Lagos Monopoly board game with iconic Lagos streets \u0026 landmarks, Nigerian Naira (₦) currency, live property trading, real-time multiplayer turns, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
